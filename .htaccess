@@ -1,0 +1,7 @@
+# Source - https://stackoverflow.com/a
+# Posted by Hodson
+# Retrieved 2026-01-21, License - CC BY-SA 3.0
+
+<Files "apple-app-site-association">
+ForceType 'application/json'
+</Files>
